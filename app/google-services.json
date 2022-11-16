@@ -1,0 +1,39 @@
+ {
+  "project_info": {
+    "project_number": "9995764700",
+    "project_id": "qr-library-2d499",
+    "storage_bucket": "qr-library-2d499.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:9995764700:android:5833c097ecd793fde80519",
+        "android_client_info": {
+          "package_name": "paru.com.qrlibrary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "9995764700-2p6ajoa0ctcmee591ke3018i6lgc8hla.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2h6Jj478kMln4qPhDWytO6xW6rlpQhTY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "9995764700-2p6ajoa0ctcmee591ke3018i6lgc8hla.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
